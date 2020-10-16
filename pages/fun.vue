@@ -1,1 +1,0 @@
-<template><div>Funny sentence</div></template>
